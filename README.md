@@ -1,4 +1,4 @@
 # Seguran-a-Digital-Web
 primeira atualização
-bal=
+bal=3
 
