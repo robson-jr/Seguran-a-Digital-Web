@@ -1,4 +1,3 @@
 # Seguran-a-Digital-Web
-primeira atualização
-bal=4
+Um site feito em php, no qual voce pode adicionar suas tarefas feitas no dia a dia.
 
